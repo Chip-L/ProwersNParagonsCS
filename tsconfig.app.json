@@ -28,7 +28,8 @@
       "@components/*": ["components/*"],
       "@hooks/*": ["hooks/*"],
       "@utils/*": ["utils/*"],
-      "@config/*": ["config/*"]
+      "@config/*": ["config/*"],
+      "@pages/*": ["pages/*"]
     }
   },
   "include": ["src"]
