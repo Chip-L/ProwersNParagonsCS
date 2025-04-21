@@ -1,0 +1,50 @@
+[
+  {
+    "motivation": "Adventure",
+    "description": "You are a superhero for the adventure and excitement of it. You may be young, going through a phase or a mid-life crisis, or one of those people who need to live life on the edge. Of course, there are plenty of ways to get an adrenaline rush, and the fact that you choose to do it in a way that protects others says a great deal about your good-hearted, heroic nature."
+  },
+  {
+    "motivation": "Altruism",
+    "description": "You are a superhero because it's the only reasonable course of action for you and others like you, at least if you want the world to have any kind of future. You've given this a lot of thought, and while you may or may not be especially good or noble, you can't escape your conclusion. Some Heroes with this motivation have genius-level intelligence, but others are ordinary folks who sat down at the kitchen table trying to figure out what they were going to do after discovering they had superhuman abilities"
+  },
+  {
+    "motivation": "Career",
+    "description": "You work as a superhero for the government, military, police, or some other organization. Or maybe you are a hero-for-hire or a private detective with powers, although it can be tough to make ends meet since you can't seem to turn away anyone who needs your help, even if they can't pay. You might even be chasing the fame and wealth that comes with being a super-powered celebrity. Whatever the case, you try to balance a no-nonsense levelheadedness with your drive to serve and protect others."
+  },
+  {
+    "motivation": "Devotion",
+    "description": "You are a superhero because of someone else. Someone you love is a superhero and you want to impress, protect, act as a mentor, or keep them out of trouble. Or someone you care about needs you to be a superhero, for whatever reason, so here you are. Although this motivation is less altruistic than most, many Heroes who start out with this motivation come to develop an appreciation for doing the right thing and eventually drop this motivation in favor of another."
+  },
+  {
+    "motivation": "Idealism",
+    "description": "You are a superhero because you espouse or embody the noblest ideals of a people, group, or nation. You live by your ideals, and through your selfless heroics, you inspire others to do the same. This doesn't make you a mindless follower, nationalist, or zealot. You believe in the dream, first and foremost, so much so that if the people, group, or nation who once espoused your ideals suddenly turns its back on them, you will be the first to plant yourself firm and say, “No, you move.”"
+  },
+  {
+    "motivation": "Justice",
+    "description": "The system is supposed to protect people, but that doesn't always happen. Some crimes are too big or too small. Some criminals are too powerful or too slippery. And some victims are too invisible or too unpopular. When the system fails, it's up to people like you to fill the gaps, protect the innocent, and right the wrongs. You fight to protect those you can, and to get justice for those you can't."
+  },
+  {
+    "motivation": "Knowledge",
+    "description": "You are on a quest for knowledge or spiritual enlightenment, and your heroics arise out of helping those you encounter along the way. Maybe you seek to explore unknown frontiers, invent new technologies, or push science and human understanding to new horizons. Maybe you are looking inward, learning to tap your infinite potential, or trying to understand yourself and your place in the universe. You might even be an alien or a robot trying to understand what it means to be human."
+  },
+  {
+    "motivation": "Nature",
+    "description": "You are a superhero because that's what your instincts tell you to be — it's in your DNA or hardwired into your programming. You might be a noble beast whose natural instincts lead you to acts of heroism. You could be insane, disconnected from reality, but your actions always have you on the side of the angels. Or you could be a construct of some kind, like a robot or clockwork soldier, programmed for heroism."
+  },
+  {
+    "motivation": "Redemption",
+    "description": "You have made mistakes, and now you are trying to redeem yourself. Your need for redemption might be internal, the desire to make amends for your past, or it might be external, a promise offered in exchange for forgiveness or leniency. At least it might have started that way, with you coerced into this life, until you woke up one morning and realized this is who you were meant to be all along."
+  },
+  {
+    "motivation": "Responsibility",
+    "description": "You have abilities and powers that most don't, and you have a duty to use them for the good of others. Maybe this is how you were raised, or maybe this was recently made clear to you. You could have a heroic obligation of some kind, a legacy to live up to. Or maybe you just have a deep respect for the value of law and order in a civil society. You act out of a sense of duty and take being a superhero seriously"
+  },
+  {
+    "motivation": "Trouble",
+    "description": "You have a problem, one you can't solve on your own, so you sought the assistance of other superheroes or their patron. Maybe you developed powers you need to learn to control. Perhaps you were dying, and your powers are the byproduct of some magical or technological process that saved your life. Maybe you need super-powered help to save someone you love, or to protect yourself from someone or something. Maybe you were coerced into being a superhero, or at least you were at first. Or perhaps you just want to find a place where you'll be accepted rather than seen as a freak or a monster."
+  },
+  {
+    "motivation": "Virtue",
+    "description": "You are a superhero because it's the right thing to do. People are supposed to do what they can to help each other. Your special abilities let you do more than most, so you do. It's that simple. An optimist, you will never stop fighting for the dignity and freedom of every human being. If you didn't have superpowers, you would find another way to work for the good of others."
+  }
+]

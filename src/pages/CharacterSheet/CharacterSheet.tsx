@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
+import { MotivationSelect } from "@components/MotivationSelect";
 import { Stack, TextField } from "@mui/material";
 
 interface CharacterInfo {
   playerName?: string;
   characterName?: string;
   characterAlias: string;
+  motivation?: string;
 }
 
 const defaultCharacterInfo: CharacterInfo = {
@@ -23,7 +25,7 @@ export const CharacterSheet = () => {
 
   return (
     <div>
-      <h1>Character Sheet</h1>
+      <h1>Prowlers and Paragons Character Sheet</h1>
       <Stack
         spacing={2}
         direction="column"
@@ -59,6 +61,8 @@ export const CharacterSheet = () => {
             })
           }
         />
+
+        <MotivationSelect />
       </Stack>
     </div>
   );
