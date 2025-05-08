@@ -35,12 +35,14 @@ Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead of
 - TypeScript
 - Vite
 - Vitest
-- MUI
+- Material UI
 
 ## Credits
 
 Copy rights are held by:
+
 LakeSide Games, Inc. Prowlers & Paragons, Prowlers & Paragons Unlimited Edition
+
 I do not have permission.
 
 ## License
